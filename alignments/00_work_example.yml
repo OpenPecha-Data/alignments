@@ -1,0 +1,16 @@
+id: id
+title: title
+type: translation / root-commentry
+alignments:
+  00001:
+    bo: W00000003:<segment-id>
+    en: W00000004:<segment-id>
+  00002:
+    bo: W00000003:<segment-id>
+    en: W00000004:<segment-id>
+  00003:
+    bo: W00000003:<segment-id>
+    en: W00000004:<segment-id>
+  00004:
+    bo: W00000003:<segment-id>
+    en: W00000004:<segment-id>
