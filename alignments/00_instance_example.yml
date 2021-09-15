@@ -1,16 +1,23 @@
 id: id
 title: title
 type: translation / root-commentry
-alignments:
+segment-sources:
+  P000121:
+      type: root / commentry
+      lang: bo / en / ch ...
+  P000122:
+      type: root / commentry
+      lang: bo / en / ch ...
+segment-pairs:
   00001:
-    bo: P000121:<segment-id>
-    en: P000121:<segment-id>
+    P000121: <segment-id>
+    P000122: <segment-id>
   00002:
-    bo: P000121:<segment-id>
-    en: P000121:<segment-id>
+    P000121: <segment-id>
+    P000122: <segment-id>
   00003:
-    bo: P000121:<segment-id>
-    en: P000121:<segment-id>
+    P000121: <segment-id>
+    P000122: <segment-id>
   00004:
-    bo: P000121:<segment-id>
-    en: P000121:<segment-id>
+    P000121: <segment-id>
+    P000122: <segment-id>
