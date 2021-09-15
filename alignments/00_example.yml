@@ -1,5 +1,6 @@
 id: id
 title: title
+type: translation / root-commentry
 alignments:
   00001:
     bo: P000121:<segment-id>
